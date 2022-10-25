@@ -9,7 +9,7 @@
  <h1 align="center"> Welcome to My Profile, My Name is Heian Alrousan </h1>
  <br />
 
- <h3> Software Engineer / Web Developer / Business & Data Analyst </h3>
+ <h3 align="center"> Software Engineer / Web Developer / Business & Data Analyst </h3>
 
  
  
