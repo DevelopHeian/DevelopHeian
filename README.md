@@ -6,9 +6,8 @@
  <i class="devicon-react-original colored"></i>
 
 
-<h3 align="center">
- Welcome to My Profile, My Name is Heian Alrousan </h3>
- **`Software Engineer / Web Developer / Business & Data Analyst`**
+ <h1 align="center"> Welcome to My Profile, My Name is Heian Alrousan </h1>
+ <h1> Software Engineer / Web Developer / Business & Data Analyst </h1>
 
  
  
