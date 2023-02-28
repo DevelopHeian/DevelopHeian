@@ -1,6 +1,6 @@
 <section id="info">
 <p>Hey, I'm Heian Alrousan</p>
-<p>To utilize my diverse technical and analytical skills to drive efficiency and improve the success of projects by effectively examining code, testing software, researching and resolving technical problems, constructing Jira tickets, conducting gap analysis, gathering project requirements, facilitating team coordination, communicating effectively, and creating detailed reports and diagrams. I aim to bring value to each team by utilizing my experiences to ensure the completion of projects and provide solutions to complex issues.</p>
+<p>My objective is to leverage my diverse technical and analytical skills to drive efficiency and enhance project success by effectively analyzing code, testing software, researching and resolving technical issues, creating Jira tickets, conducting gap analysis, gathering project requirements, facilitating team coordination, communicating clearly, and producing detailed reports and diagrams. I am committed to bringing value to every team by utilizing my experience to ensure project completion and providing innovative solutions to complex problems.</p>
  </section>    
  
 <details>
