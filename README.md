@@ -32,6 +32,8 @@
  </ul>
  
  
+</details>
+
 <details>
  <summary><h3>Experience</h3></summary>
 <h3>Web Developer & Software Engineer</h3>
@@ -39,7 +41,8 @@
 <li>Created a Fully Operational and operational Time Clock using JavaScript </li> 
 <li>Developed a Calculator Using JavaScript to perform basic arithmetic operations and improve efficiency</li> 
 <li>Built a Weather Application using APIs and JavaScript to provide users with real-time weather information</li> 
-
+ 
+</details>
  
 
  <br>
