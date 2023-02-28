@@ -31,8 +31,9 @@
 <li>Resolved challenging database issues such as distributed systems, query optimization, and web services</li> 
  </ul>
  
-  <summary><h3>PERSONAL PROJECTS</h3></summary>
- </ul>
+ 
+
+<summary><h3>PERSONAL PROJECTS</h3></summary>
 <h3>Web Developer & Software Engineer</h3>
 <li>Conducted a Full stack Professional Responsive Portfolio Website using HTML, CSS, JavaScript</li> 
 <li>Created a Fully Operational and operational Time Clock using JavaScript </li> 
