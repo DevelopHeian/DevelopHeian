@@ -32,8 +32,8 @@
  </ul>
  
  
-
-<summary><h3>PERSONAL PROJECTS</h3></summary>
+<details>
+ <summary><h3>Experience</h3></summary>
 <h3>Web Developer & Software Engineer</h3>
 <li>Conducted a Full stack Professional Responsive Portfolio Website using HTML, CSS, JavaScript</li> 
 <li>Created a Fully Operational and operational Time Clock using JavaScript </li> 
