@@ -30,18 +30,15 @@
 <li>Ensured timely completion of company projects by performing tasks and resolving any issues that arose</li> 
 <li>Resolved challenging database issues such as distributed systems, query optimization, and web services</li> 
  </ul>
- 
- 
 </details>
 
 <details>
- <summary><h3>Experience</h3></summary>
+<summary><h3>Personal Projects</h3></summary>
 <h3>Web Developer & Software Engineer</h3>
 <li>Conducted a Full stack Professional Responsive Portfolio Website using HTML, CSS, JavaScript</li> 
 <li>Created a Fully Operational and operational Time Clock using JavaScript </li> 
 <li>Developed a Calculator Using JavaScript to perform basic arithmetic operations and improve efficiency</li> 
 <li>Built a Weather Application using APIs and JavaScript to provide users with real-time weather information</li> 
- 
 </details>
  
 
