@@ -1,6 +1,6 @@
 <section id="info">
-<p>Hey, my name is Heian Alrousan, I am a Junior at the University of Lewis</p>
-<p>I am enrolled in the 3+1 Program with Lewis University for Computer Science, Specialty Software Developing. My work experience consists of me working as Data Analyst Intern, Engineer Intern, Business Analyst, and Software Developer. I have a solid understanding of a variety of hardware and software platforms, including C/C++, HTML, CSS, JavaScript, React.JS, Node.JS, AWS, Java, and Python. I am astounded by how successfully I have built and maintained solid working relationships with teams, management, and all levels of stakeholders. I take great pride in my proven track record of leading front-end development using React.JS and Redux, optimizing workflows, and constructing high-performance augmented reality prototypes utilizing Javascript and C# frameworks. With my previous experience working in dynamic environments, I am confident that I can contribute significantly and prove to be a priceless asset to your team.</p>
+<p>Hey, I'm Heian Alrousan</p>
+<p>To utilize my diverse technical and analytical skills to drive efficiency and improve the success of projects by effectively examining code, testing software, researching and resolving technical problems, constructing Jira tickets, conducting gap analysis, gathering project requirements, facilitating team coordination, communicating effectively, and creating detailed reports and diagrams. I aim to bring value to each team by utilizing my experiences to ensure the completion of projects and provide solutions to complex issues.</p>
  </section>    
  
 <details>
